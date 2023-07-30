@@ -1,0 +1,4 @@
+# 直连本地/局域网地址
+DST-PORT,25386
+SRC-PORT,25386
+DOMAIN-SUFFIX,no.wojuzi.top
